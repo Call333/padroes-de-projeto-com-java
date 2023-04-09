@@ -1,5 +1,5 @@
 # padroes-de-projeto-com-java
 
-Créditos para [https://github.com/falvojr](falvojr)
+Créditos para [falvojr]([falvojr](https://github.com/falvojr))
 
 att. Calebe
